@@ -23,6 +23,8 @@ The script will create an `AppIcon.appiconset` folder on your destination folder
 
 This script does not handle naming collisions, it will overwrite any existing files with the same names in the destination directory.
 
+You could find some unassigned icons on the bottom of the AppIcon set, depends on some Xcode versions, you just have to select them and click remove.
+
 ## Documentation
 
 * Adobe [Photoshop JavaScript Reference](http://www.adobe.com/devnet/photoshop/scripting.html)
